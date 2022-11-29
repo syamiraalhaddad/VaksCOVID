@@ -1,0 +1,184 @@
+Covid_vaccinated_in_the_world;;;;;
+country;iso_alpha;doses_per100;total_dose;vaccinated_in_percentage;fully_vaccinated_in_percentage
+U.A.E.;ARE;140.0;13,684,429;0.0;0.0
+Israel;ISR;117.0;10,618,819;60.0;57.0
+Malta;MLT;115.0;576,256;67.0;50.0
+Bahrain;BHR;114.0;1,876,554;62.0;52.0
+Aruba;ABW;112.0;119,395;61.0;51.0
+Mongolia;MNG;109.0;3,528,572;59.0;51.0
+Chile;CHL;107.0;20,223,473;61.0;47.0
+U.K.;GBR;105.0;70,253,625;61.0;44.0
+Curaçao;CUW;102.0;160,585;55.0;47.0
+Qatar;QAT;98.0;2,768,028;56.0;42.0
+Hungary;HUN;96.0;9,424,351;54.0;42.0
+Uruguay;URY;93.0;3,224,002;60.0;33.0
+United States;USA;92.0;306,509,795;52.0;43.0
+Maldives;MDV;92.0;489,415;59.0;33.0
+Iceland;ISL;88.0;317,082;59.0;36.0
+Singapore;SGP;77.0;4,392,067;44.0;33.0
+Canada;CDN;75.0;28,240,474;64.0;11.0
+Belgium;BEL;71.0;8,175,324;47.0;25.0
+Germany;DEU;71.0;59,038,531;48.0;25.0
+Serbia;SRB;70.0;4,882,120;38.0;32.0
+Denmark;DNK;70.0;4,066,856;45.0;25.0
+Lithuania;LTU;69.0;1,933,826;42.0;28.0
+Spain;ESP;69.0;32,282,553;45.0;26.0
+Italy;ITA;69.0;41,310,662;47.0;23.0
+Luxembourg;LUX;68.0;423,029;42.0;26.0
+Austria;AUT;68.0;6,043,642;46.0;23.0
+Switzerland;CHE;67.0;5,785,134;42.0;26.0
+Netherlands;NLD;66.0;11,395,454;45.0;23.0
+Portugal;PRT;65.0;6,713,043;43.0;23.0
+France;FRA;64.0;43,204,513;45.0;21.0
+Bhutan;BTN;63.0;482,716;63.0;0.0
+Poland;POL;62.0;23,628,450;40.0;24.0
+Greece;GRC;62.0;6,665,626;39.0;25.0
+Slovenia;SVN;62.0;1,294,610;36.0;26.0
+Finland;FIN;62.0;3,421,475;50.0;12.0
+Mainland China;CHN;62.0;863,513,000;0.0;0.0
+Norway;NOR;61.0;3,254,587;36.0;25.0
+Estonia;EST;61.0;806,585;39.0;22.0
+Czech Republic;CZE;60.0;6,436,606;42.0;19.0
+Sweden;SWE;60.0;6,151,465;40.0;20.0
+Cyprus;CYP;57.0;681,219;35.0;22.0
+Dominican Rep.;DOM;56.0;6,050,983;39.0;17.0
+Slovakia;SVK;54.0;2,934,355;34.0;20.0
+Barbados;BRB;51.0;147,036;30.0;22.0
+Croatia;HRV;50.0;2,042,889;34.0;16.0
+Latvia;LVA;49.0;935,992;29.0;21.0
+Ireland;IRL;48.0;2,387,348;36.0;0.0
+Saudi Arabia;SAU;46.0;15,605,844;0.0;0.0
+Morocco;MAR;45.0;16,409,704;26.0;19.0
+Romania;ROU;44.0;8,425,239;23.0;21.0
+Kuwait;KWT;43.0;1,820,000;0.0;0.0
+Montenegro;MNE;42.0;259,428;23.0;19.0
+French Polynesia;PYF;41.0;115,739;23.0;19.0
+Turkey;TUR;39.0;32,952,991;23.0;16.0
+Hong Kong;HKG;38.0;2,837,427;22.0;16.0
+Costa Rica;CRI;38.0;1,906,177;24.0;14.0
+Guyana;GUY;38.0;294,053;27.0;10.0
+Macau;MAC;38.0;237,236;26.0;12.0
+Brazil;BRA;36.0;76,758,587;25.0;11.0
+Mauritius;MUS;36.0;455,242;20.0;16.0
+Argentina;ARG;35.0;15,730,223;28.0;7.1
+El Salvador;SLV;35.0;2,231,365;20.0;14.0
+New Caledonia;NCL;34.0;98,747;19.0;16.0
+Cambodia;KAM;31.0;5,128,310;17.0;14.0
+Albania;ALB;29.0;823,053;17.0;11.0
+Tonga;TON;29.0;29,980;27.0;1.3
+Mexico;MEX;29.0;36,430,953;20.0;12.0
+Cuba;CUB;28.0;3,128,573;16.0;2.7
+South Korea;KOR;28.0;14,261,118;22.0;5.6
+Panama;PAN;27.0;1,164,396;18.0;9.6
+Saint Lucia;LCA;27.0;49,735;16.0;11.0
+Azerbaijan;AZE;27.0;2,702,023;17.0;9.5
+Fiji;FJI;25.0;223,429;25.0;0.5
+Jordan;JOR;25.0;2,515,652;19.0;6.1
+Colombia;COL;24.0;12,206,104;17.0;7.1
+Grenada;GRD;24.0;26,975;16.0;8.0
+Bulgaria;BGR;22.0;1,568,793;13.0;10.0
+Russia;RUS;22.0;32,267,143;13.0;9.7
+Australia;AUS;22.0;5,641,008;20.0;2.6
+North Macedonia;MKD;21.0;431,174;12.0;8.5
+Saint Vincent and the Grenadines;VCT;21.0;22,746;0.0;0.0
+Belize;BLZ;21.0;80,121;17.0;3.1
+Kazakhstan;KAZ;20.0;3,714,092;13.0;7.0
+Moldova;MDA;20.0;522,848;14.0;5.3
+Samoa;WSM;19.0;38,361;19.0;0.0
+Suriname;SUR;19.0;112,200;15.0;3.8
+India;IND;18.0;243,703,242;14.0;3.4
+Equatorial Guinea;GNQ;17.0;236,189;11.0;6.5
+Japan;JPN;17.0;21,408,125;13.0;4.3
+Bolivia;BOL;17.0;1,940,095;13.0;3.9
+Ecuador;ECU;16.0;2,788,245;11.0;5.2
+Bahamas;BHS;16.0;62,183;12.0;3.5
+New Zealand;NZL;16.0;775,444;10.0;5.6
+Peru;PER;15.0;4,946,221;10.0;5.1
+Laos;LAO;15.0;1,079,903;9.9;5.2
+Brunei;BRN;14.0;61,225;11.0;2.6
+Lebanon;LBN;14.0;963,223;9.4;4.6
+West Bank & Gaza;PSE;13.0;607,832;8.0;5.0
+Malaysia;MYS;13.0;4,102,936;8.9;4.0
+Sri Lanka;LKA;12.0;2,544,373;9.9;1.8
+Indonesia;IDN;12.0;31,195,606;7.3;4.3
+Trinidad and Tobago;TTO;11.0;159,709;11.0;0.7
+São Tomé and Príncipe;STP;11.0;23,644;5.8;5.2
+Tunisia;TUN;11.0;1,252,125;7.7;3.0
+Nepal;NPL;10.0;2,936,113;7.8;2.4
+Comoros;COM;9.9;84,360;5.1;4.8
+Belarus;BLR;9.8;924,926;6.5;3.3
+Thailand;THA;8.1;5,667,058;6.0;2.2
+Zimbabwe;ZWE;7.4;1,089,506;4.7;2.7
+Timor-Leste;TLS;7.2;93,169;7.2;0.0
+Cabo Verde;CPV;7.1;39,211;6.6;0.5
+Bosnia and Herzegovina;BIH;7.0;232,706;5.7;1.3
+Georgia;GEO;6.7;249,268;5.1;1.6
+Botswana;BWA;6.5;150,019;6.5;0.0
+Uzbekistan;UZB;6.4;2,136,423;0.0;0.0
+Bangladesh;BGD;6.2;10,058,643;3.6;2.6
+Jamaica;JAM;6.0;177,889;5.3;0.8
+Oman;OMN;6.0;296,894;4.4;1.6
+Paraguay;PRY;6.0;419,925;4.5;1.5
+Philippines;PHL;5.8;6,314,548;4.3;1.6
+Algeria;DZA;5.8;2,500,000;5.8;0.0
+Myanmar;MMR;5.5;2,994,900;3.3;2.3
+Iran;IRN;5.5;4,553,653;4.7;0.8
+Libya;LBY;4.7;317,809;4.7;0.0
+Honduras;HND;4.6;447,023;4.0;0.6
+Pakistan;PAK;4.4;9,559,910;3.4;1.2
+Togo;TGO;4.3;347,246;3.4;0.9
+Ghana;GHA;4.0;1,228,216;2.8;1.2
+Guatemala;GTM;3.9;647,339;3.1;0.8
+Namibia;NAM;3.9;96,433;3.3;0.5
+Angola;AGO;3.8;1,222,630;2.4;1.4
+Ukraine;UKR;3.7;1,661,410;3.2;0.5
+Taiwan;TWN;3.4;799,129;3.4;0.0
+Senegal;SEN;3.3;545,915;2.9;0.4
+Egypt;EGY;3.3;3,340,216;2.8;0.5
+Rwanda;RWA;3.2;400,096;2.8;0.4
+Eswatini;SWZ;3.1;35,227;3.1;0.0
+Guinea;GIN;3.0;384,974;2.3;0.7
+South Africa;ZAF;2.9;1,690,026;0.0;0.0
+Venezuela;VEN;2.6;739,962;2.1;0.5
+Ivory Coast;CIV;2.6;662,848;2.6;0.0
+Nicaragua;NIC;2.6;167,500;2.6;0.0
+Solomon Islands;SLB;2.5;17,000;2.5;0.0
+Djibouti;DJI;2.2;21,357;1.3;0.9
+Kyrgyzstan;KGZ;2.1;135,578;1.4;0.7
+Kenya;KEN;2.0;1,059,117;1.9;0.1
+Malawi;MWI;2.0;369,674;2.0;0.0
+Gambia;GMB;1.7;40,810;1.3;0.4
+Lesotho;LSO;1.7;36,759;1.7;0.0
+Ethiopia;ETH;1.7;1,920,676;0.0;0.0
+Uganda;UGA;1.7;757,664;1.7;0.0
+Afghanistan;AFG;1.7;641,295;1.3;0.4
+Armenia;ARM;1.6;46,503;1.6;0.0
+Iraq;IRQ;1.6;613,840;1.1;0.4
+Gabon;GAB;1.5;32,105;1.0;0.5
+Vietnam;VNM;1.5;1,411,548;1.4;0.1
+Mozambique;MOZ;1.3;394,930;1.1;0.2
+Liberia;LBR;1.3;64,129;1.3;0.0
+Sierra Leone;SLE;1.1;88,523;1.0;0.2
+Sudan;SDN;1.1;483,520;1.0;0.2
+Nigeria;NGA;1.1;2,225,765;1.0;0.1
+Republic of the Congo;COD;1.1;57,613;0.0;0.0
+Tajikistan;TJK;1.0;97,290;0.9;0.1
+Mauritania;MRT;1.0;44,628;0.8;0.2
+Guinea-Bissau;GNB;1.0;18,706;1.0;0.0
+Somalia;SOM;0.9;143,379;0.8;0.1
+Zambia;ZMB;0.8;147,115;0.8;0.0
+Mali;MLI;0.8;157,129;0.6;0.2
+Niger;NGA;0.8;180,987;0.7;0.0
+Yemen;YEM;0.8;221,380;0.8;0.0
+Turkmenistan;TKM;0.7;41,993;0.5;0.2
+Central African Republic;CAF;0.6;26,541;0.5;0.0
+Papua New Guinea;PNG;0.4;38,176;0.4;0.0
+Syria;SYR;0.4;71,519;0.4;0.0
+Madagascar;MDG;0.4;97,300;0.4;0.0
+Cameroon;CMR;0.3;86,451;0.3;0.1
+Vanuatu;VUT;0.3;860;0.3;0.0
+Benin;BEN;0.2;26,624;0.2;0.0
+South Sudan;SSD;0.1;11,889;0.1;0.0
+Burkina Faso;BFA;0.0;7,881;0.0;0.0
+Congo;COG;0.0;31,871;0.0;0.0
+Chad;TCD;0.0;5,324;0.0;0.0
